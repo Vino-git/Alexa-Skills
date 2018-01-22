@@ -6,9 +6,9 @@ Enable this app in Alexa skill store. Alexa, Open John quiz.
 
 Bible Chapter John Quiz game
 
-The Gospel According to John is one of the four canonical gospels and one of the three synoptic gospels.
+The Gospel According to John is one of the four canonical gospels in the New Testament. It traditionally appears fourth, after the Synoptic Gospels of Matthew, Mark, and Luke.
 
-Enable this Alexa trivia about John chapter from Bible and learn Jesus life. This Alexa skill will ask you 10 questions and you can give your answers in number (1,2,3,4) as it gives 4 options to choose the right answer.
+Enable this Alexa trivia about John chapter from Bible. This Alexa skill will ask you 10 questions and you can give your answers in number (1,2,3,4) as it gives 4 options to choose the right answer.
 
 Alexa, Open John Quiz
 
